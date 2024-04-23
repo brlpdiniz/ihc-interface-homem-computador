@@ -1,15 +1,10 @@
 # Uma questão de cada slide na prova, não precisa decorar nomes, mas saber o que fazem
-
 1) Teoria da ação
-
 2) Identificar as informações/mensagens em alguma interface
-
 3) Identificar os tipos de botões/menus em uma interface
-
 4) Comunicabilidade x Usabilidade:
    - Dizer um menu de comunicabilidade e outro de usabilidade (ela vai dar os exemplos, mas tem que saber o que cada um representa)
     - “A interface é boa/ruim porque…
-
 
 ### Desenvolvimento de Interfaces
 - Metodologia envolve:
@@ -25,7 +20,7 @@
     * Fazem mais erros
     * Sentem-se insatisfeitos
     * Necessitam de mais tempo para aprender a usar o software
-    * Não aprendem/usam a funcionalidade completa do software 
+    * Não aprendem/usam a funcionalidade completa do software
 
 - Exemplos:
     * Displays que não são visíveis com a luz do sol.
@@ -33,7 +28,7 @@
 
 - Boa interação é de extrema importância
     - Sistemas com elevados custos de falha:
-        * usinas de energia nuclear, 
+        * usinas de energia nuclear,
         * controle de missão espacial
     - Sistemas com alta demanda de operadores:
         - centros de coordenação de salvamento
@@ -51,8 +46,8 @@
 - Abordam uma perspectiva centrada nos aspectos cognitivos do usuário
     * design de sistemas centrado no usuário (User Centered System Design – UCSD).
 - A engenharia cognitiva foca na interação usuário-sistema, enfatizando:
-    * produto final do processo de design, 
-    * sistema, 
+    * produto final do processo de design,
+    * sistema,
     * modo como o usuário o entende.
 
 ### Exercícios
@@ -68,9 +63,11 @@
 
 > Atividade Teams (Engenharia Cognitiva)
 
+<br>
+
 ### Engenharia Semiotica
 - Tem como base a semiótica - disciplina que estuda:
-    * os signos, 
+    * os signos,
     * os sistemas semióticos e de comunicação,
     * os processos envolvidos na produção e interpretação de signos.
 
@@ -81,9 +78,9 @@
     * 子犬
 
 - Toda aplicação computacional é concebida como um ato de comunicação que incluí
-    * o designer no papel de emissor de uma mensagem 
+    * o designer no papel de emissor de uma mensagem
     * para os usuários dos sistemas por ele criados
-- Para que a comunicação entre duas pessoas aconteça, é preciso que 
+- Para que a comunicação entre duas pessoas aconteça, é preciso que
     * o emissor da mensagem a expresse em um código que tanto ele quanto o receptor conheçam
 
 - Esta mensagem tem como objetivo comunicar ao usuário a resposta para duas perguntas fundamentais:
@@ -98,13 +95,15 @@
 ### Engenharia Cognitiva X Engenharia Semiótica
 - No processo de design da interface:
     - A engenharia cognitiva:
-        * se concentra na etapa da interação usuário-sistema. 
+        * se concentra na etapa da interação usuário-sistema.
         * Ela enfatiza o produto deste processo.
     - A engenharia semiótica:
         * junta as etapas  do designer quando cria o modelo mental da aplicação e implementa a aplicação e do usuário quando interage com esta aplicação.
         * Ela é mais abrangente e engloba a engenharia cognitiva.
 
 > Atividade Teams (Engenharia Semiótica)
+
+<br>
 
 ### Estilos de interacao
 - Estilo de interação é um termo genérico que inclui todas as formas como os usuários se comunicam ou interagem com sistemas computacionais.
@@ -296,4 +295,4 @@
         * Posicionamento dos feedbacks​
         * Cores e sons
 
-    > Atividade Teams (Engenharia Semiótica)s
+> Atividade Teams (Engenharia Semiótica)
